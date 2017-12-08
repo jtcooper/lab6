@@ -1,0 +1,7 @@
+nohup: ignoring input
+before / Route
+/user Route
+[0mGET /user [36m304 [0m11.163 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.663 ms - -[0m
+[0mGET /javascripts/my_app.js [36m304 [0m1.448 ms - -[0m
+[0mGET /user/profile [36m304 [0m14.569 ms - -[0m
